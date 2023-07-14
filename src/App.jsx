@@ -23,7 +23,7 @@ function App() {
   return (
     <main>
       <p>React⚛️ + Vite⚡ + <img className="logo" src={logo} alt="logo" /><span className="express">express</span></p>
-      <p>The API sez&hellip; {message}</p>
+      <p>The API&hellip; {message}</p>
     </main>
   );
 }
