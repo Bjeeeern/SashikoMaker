@@ -7,7 +7,7 @@
  * Import the plugin modules
  */
 import reactRefresh from '@vitejs/plugin-react-refresh'
-import app from './server/app'
+import app from './server/main'
 
 /*
  * The Express app plugin. Specify the URL base path

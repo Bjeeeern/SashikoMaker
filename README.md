@@ -1,8 +1,3 @@
-# React⚛️ + Vite⚡ + express
-
-This demo uses Vite to build an app with a React front end
-and a Node/Express backend running in thee same repl.
-
 ## React For Front-End Development
 
 Edit [App.jsx](#src/App.jsx) in the `src` folder to start
@@ -13,7 +8,7 @@ update your app live as you edit.
 ## Express.js For Back-End Development
 
 The `server` folder contains the source code for the Express
-back-end application. Edit [app.js](#server/app.js) to build
+back-end application. Edit [main.js](#server/main.js) to build
 your API. Just like the front-end, Vite will update your app
 live as you edit.
 
