@@ -2,7 +2,7 @@
   "name": "ReplitReactjsProject",
   "version": "0.0.1",
   "scripts": {
-    "dev": "cross-env NODE_ENV=develpment vite",
+    "dev": "cross-env NODE_ENV=development vite",
     "build": "cross-env NODE_ENV=production vite build",
     "serve": "cross-env NODE_ENV=production node server/app.js"
   },
